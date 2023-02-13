@@ -1,0 +1,10 @@
+.post-it-card {
+    background-color: #f5cb5c;
+    display: flex;
+    flex-direction: column;
+}
+.post-it-trash-bin:hover {
+    background-color: #000;
+    color: #fff;
+    transition: .1s ease-in;
+}

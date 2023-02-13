@@ -1,0 +1,27 @@
+.just-post-it-title {
+    color: #fff;
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 2.5rem;
+}
+.add-task-form {
+    box-shadow: 0 0px 6px 0px #f5cb5c;
+    border-radius: 26px;
+    margin-bottom: 2.5rem;
+}
+.add-task-form input, textarea {
+    border: 1px solid #f5cb5c;
+}
+.input-active {
+    border: 1px solid #f5cb5c;
+}
+
+.just-post-it-add-btn {
+    background-color: #f5cb5c;
+    border-radius: 26px;
+    padding: 4px 16px;
+}
+.just-post-it-add-btn:hover {
+    background-color: #f5cc5cdd;
+    transition: .1s ease-in;
+}
